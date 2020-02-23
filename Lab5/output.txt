@@ -1,0 +1,2 @@
+This is the (1)th object.
+Call destructor here.
