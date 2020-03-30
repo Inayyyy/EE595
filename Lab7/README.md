@@ -1,6 +1,8 @@
 # KNN and Naive Bayes
 Name: Yani Jin
+
 studentID: 3973887764
+
 Email: yanijin@usc.edu
 
 ## Part 1: Use PCA and Implement KNN
